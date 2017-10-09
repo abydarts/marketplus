@@ -1,0 +1,53 @@
+<?php
+// forum Language 
+
+$lang['forum']    			= '论坛管理员';
+$lang['forum_title']				= '论坛';
+$lang['box_info']			= '论坛信息';
+$lang['date']				= '日期';
+$lang['forum_topic']				= '主题名称';
+$lang['created_by']				= '创建者';
+$lang['content']				= '内容';
+$lang['category_id']				= '分类';
+$lang['confirm_delete_forum']	= '您确定要删除这个论坛?';
+$lang['add_new_topic']		= '新增主题 ';
+$lang['new_topic']		= '加入论坛主题 ';
+$lang['no_boxes']			= '目前没有更新';
+$lang['message_box_saved']	= '该论坛已保存!';
+$lang['box_form']			= '论坛形式';
+$lang['message_delete_box']	= '该论坛已被删除.';
+$lang['forum_topic_title']				= '论坛主题';
+$lang['forum_form']				= '论坛形式';
+$lang['forum_category']				= '论坛分类页'; 
+$lang['confirm_delete_cat']	= '您确定要删除这个类别?';
+$lang['forum_cat']				= '论坛类别';
+$lang['forum_topic']				= '论坛主题';
+$lang['forum_content']				= '论坛内容';
+$lang['add_new_category']		= '加入论坛分类';
+$lang['message_cat_saved']	= '本次论坛类别已保存!';
+$lang['message_delete_cat']	= '该类别已被删除.';
+$lang['forum_cat_form']				= '论坛分类表';
+$lang['no_records']	 = '没有相关记录';
+$lang['cancel']	 = '取消';
+$lang['recent_forum']	 = '最近的论坛';
+$lang['tags']	 = '标签';
+$lang['save']	 = '节省';
+$lang['all_forum']	 = '所有的论坛帖子';
+$lang['reply']	 = '回复';
+$lang['post_reply']	 = '发表回复'; 
+$lang['post']	 = '职位';
+$lang['forum_categories']	 = '论坛分类';
+$lang['comment']	 = '评论';
+$lang['comments']	 = '评论';
+$lang['posts']	 = '帖子';
+$lang['last_post']	 = '最新文章由';
+$lang['thread']	 = '线';
+$lang['threads']	 = '主题';
+$lang['no_forum']	 = '没有可用的论坛';
+$lang['by']	 = '通过';
+$lang['edit']	 = '编辑';
+$lang['delete']	 = '删除';
+$lang['search_forum']	 = '论坛搜索';
+$lang['search']	 = '搜索论坛';
+$lang['main_forum']	 = '主论坛';
+?>
