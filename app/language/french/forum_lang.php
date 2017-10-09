@@ -1,0 +1,53 @@
+<?php
+// forum Language 
+
+$lang['forum']    			= 'Forum Manager';
+$lang['forum_title']				= 'Forum';
+$lang['box_info']			= 'Forum Information';
+$lang['date']				= 'Date';
+$lang['forum_topic']				= 'Topic Name';
+$lang['created_by']				= 'Created by';
+$lang['content']				= 'Content';
+$lang['category_id']				= 'Categories';
+$lang['confirm_delete_forum']	= 'Are you sure you want to delete this forum?';
+$lang['add_new_topic']		= 'Add Topic ';
+$lang['new_topic']		= 'Add Forum Topic ';
+$lang['no_boxes']			= 'There are currently no updates';
+$lang['message_box_saved']	= 'The forum has been saved!';
+$lang['box_form']			= 'Forum Form';
+$lang['message_delete_box']	= 'The forum has been deleted.';
+$lang['forum_topic_title']				= 'Forum Topic';
+$lang['forum_form']				= 'Forum Form';
+$lang['forum_category']				= 'Forum Category Page'; 
+$lang['confirm_delete_cat']	= 'Are you sure you want to delete this category?';
+$lang['forum_cat']				= 'Forum Category';
+$lang['forum_topic']				= 'Forum Topic';
+$lang['forum_content']				= 'Forum Content';
+$lang['add_new_category']		= 'Add Forum Category';
+$lang['message_cat_saved']	= 'The forum category has been saved!';
+$lang['message_delete_cat']	= 'The category has been deleted.';
+$lang['forum_cat_form']				= 'Forum Category Form';
+$lang['no_records']	 = 'No Records';
+$lang['cancel']	 = 'Cancel';
+$lang['recent_forum']	 = 'Recent Forum';
+$lang['tags']	 = 'Tags';
+$lang['save']	 = 'Save';
+$lang['all_forum']	 = 'All Forum Posts';
+$lang['reply']	 = 'Reply';
+$lang['post_reply']	 = 'Post Reply'; 
+$lang['post']	 = 'Post';
+$lang['forum_categories']	 = 'Forum Categories';
+$lang['comment']	 = 'Comment';
+$lang['comments']	 = 'Comments';
+$lang['posts']	 = 'Posts';
+$lang['last_post']	 = 'Last post by';
+$lang['thread']	 = 'Thread';
+$lang['threads']	 = 'Threads';
+$lang['no_forum']	 = 'No forum available';
+$lang['by']	 = 'by';
+$lang['edit']	 = 'Edit';
+$lang['delete']	 = 'Delete';
+$lang['search_forum']	 = 'Forum Search';
+$lang['search']	 = 'Search Forum';
+$lang['main_forum']	 = 'Main forum';
+?>
